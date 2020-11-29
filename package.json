@@ -1,0 +1,32 @@
+{
+  "name": "impact-hackersuop",
+  "version": "1.0.0",
+  "description": "Impact Official Website of Hackers' Club",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write .",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HackersUOP/impact.git"
+  },
+  "keywords": [
+    "HackersClubUOP",
+    "Hackers'",
+    "Hackers Impact",
+    "Impact",
+    "Impact 1.0",
+    "UOP"
+  ],
+  "author": "HackersUOP",
+  "license": "LGPL-2.1",
+  "bugs": {
+    "url": "https://github.com/HackersUOP/impact/issues"
+  },
+  "homepage": "https://github.com/HackersUOP/impact#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "prettier": "^2.2.1"
+  }
+}
